@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "id": 1,
-      "description": "Learn HTML",
-      "done": false
-    },
-    {
       "id": 2,
       "description": "Learn CSS",
       "done": true
@@ -24,6 +19,11 @@
       "description": "Vue lernen",
       "done": false,
       "id": 6
+    },
+    {
+      "description": "learn Chinese",
+      "done": false,
+      "id": 7
     }
   ]
 }
